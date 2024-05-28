@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\bin\Debug\net8.0\UppercaseApp.exe
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\bin\Debug\net8.0\UppercaseApp.deps.json
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\bin\Debug\net8.0\UppercaseApp.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\bin\Debug\net8.0\UppercaseApp.dll
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\bin\Debug\net8.0\UppercaseApp.pdb
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\obj\Debug\net8.0\UppercaseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\obj\Debug\net8.0\UppercaseApp.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\obj\Debug\net8.0\UppercaseApp.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\obj\Debug\net8.0\UppercaseApp.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\obj\Debug\net8.0\UppercaseApp.dll
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\obj\Debug\net8.0\refint\UppercaseApp.dll
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\obj\Debug\net8.0\UppercaseApp.pdb
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\obj\Debug\net8.0\UppercaseApp.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\UppercaseApp\UppercaseApp\obj\Debug\net8.0\ref\UppercaseApp.dll
